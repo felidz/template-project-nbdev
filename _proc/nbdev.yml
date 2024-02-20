@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "template-project-nbdev"
+  site-url: "https://felidz.github.io/template-project-nbdev"
+  description: ""
+  repo-branch: main
+  repo-url: "https://github.com/felidz/template-project-nbdev"
