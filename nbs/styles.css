@@ -10,6 +10,10 @@ pre, code, kbd, samp {
   font-family: "Fira Code", "Source Han Sans SC", '思源黑体', Consolas, monospace!important;
 }
 
+.anchored {
+  display: flex;
+}
+
 
 .cell {
   margin-bottom: 1rem;
