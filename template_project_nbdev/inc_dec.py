@@ -3,10 +3,16 @@
 # %% auto 0
 __all__ = ['inc', 'dec']
 
+# %% ../nbs/00_inc_dec.ipynb 3
+from .module.submodule import Foo
+
+
 # %% ../nbs/00_inc_dec.ipynb 4
 def inc(x: int) -> int:
     """ increment
     """
+    foo = Foo()
+    foo.bar()
     return x + 1
 
 

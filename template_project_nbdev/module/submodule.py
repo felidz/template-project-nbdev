@@ -3,7 +3,7 @@
 # %% auto 0
 __all__ = ['Foo']
 
-# %% ../../nbs/01_module.submodule.ipynb 4
+# %% ../../nbs/01_module.submodule.ipynb 3
 class Foo:
     def __init__(self):
         pass 

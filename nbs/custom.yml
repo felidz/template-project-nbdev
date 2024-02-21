@@ -1,0 +1,32 @@
+author: 
+  - name: 
+      family: "Felidz"
+
+license: "CC BY-NC-ND"
+copyright: 
+  holder: Felidz
+  year: 2024
+  statement: "Copyright © 2024 onward  Felid. All rights reserved, unless expressly granted."
+toc: true
+number-sections: true
+
+reference-location: margin
+# citation-location: margin
+bibliography: references.bib
+citation: true
+
+date-format: iso
+
+format:
+  html:
+    theme: 
+      light: lumen
+      dark: darkly
+    code-tools: 
+      # source: true <can be xxx.md>
+      caption: none
+    code-fold: true
+    code-summary: "Code Snippet"
+    code-line-numbers: true
+    monofont: "fira code"
+    # highlight-style: github
