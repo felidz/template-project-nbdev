@@ -19,8 +19,7 @@ copyright:
 format:
   html:
     toc: true
-    code-tools: 
-      source: true
+    code-tools: true
       # caption: none
     code-fold: true
     code-summary: "Code"
@@ -31,3 +30,10 @@ format:
       dark: solar
     highlight-style: github
 
+website:
+  page-navigation: true
+  navbar:
+  right:
+    - icon: github
+      href: https://github.com/
+      aria-label: GitHub
