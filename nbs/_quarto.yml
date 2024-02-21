@@ -1,11 +1,39 @@
+
+
 project:
   type: website
 
+date: 2024-02-20
+date-format: iso
+
+reference-location: margin
+# citation-location: margin
+
+bibliography: references.bib
+citation: true
+
+license: "CC BY-NC-SA"
+copyright: 
+  holder: Felidz
+  year: 2024
+  statement: "Copyright © 2024 onward  Felid. All rights reserved, unless expressly granted."
+# toc: true
+
 format:
   html:
-    theme: cosmo
-    css: styles.css
     toc: true
+    code-tools: 
+      source: true
+      caption: none
+    code-fold: true
+    code-summary: "Code"
+    code-line-numbers: true
+    css: styles.css
+    theme: 
+      light: cosmo
+      dark: solar
+    highlight-style: github
+
 
 website:
   twitter-card: true
