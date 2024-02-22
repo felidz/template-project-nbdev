@@ -8,7 +8,7 @@ framework, designed with the primary objective of facilitating my
 learning and progression through python engineering practice.
 
 [![PyPI
-Version](https://img.shields.io/pypi/v/template-project-nbdev.svg?style=flat-square&color=darkblue)](https://pypi.org/project/template-project-nbdev/)
+Version](https://img.shields.io/pypi/v/template-project-nbdev.svg?style=flat-square&color=blue)](https://pypi.org/project/template-project-nbdev/)
 ![GitHub
 License](https://img.shields.io/github/license/felidz/template-project-nbdev.svg?style=flat-square&logo=github)
 <!-- ![GitHub Release](https://img.shields.io/github/v/release/felidz/template-project-nbdev.svg?style=flat-square&logo=github) -->
@@ -46,11 +46,12 @@ pip install template_project_nbdev
 ## Statistics
 
 <!-- <img src="https://api.star-history.com/svg?repos=felidz/template-project-nbdev&type=Date" alt="drawing" width="390"/> -->
-<!-- ![GitHub Repo stars](https://img.shields.io/github/stars/felidz/template-project-nbdev.svg?style=flat-square&logo=github)  -->
-<!-- ![GitHub Downloads](https://img.shields.io/github/downloads/felidz/template-project-nbdev/total.svg?style=flat-square&logo=github) -->
 
+![GitHub Repo
+stars](https://img.shields.io/github/stars/felidz/template-project-nbdev.svg?style=flat-square&logo=github)
 ![PyPI -
 Downloads](https://img.shields.io/pypi/dm/template-project-nbdev.svg?style=flat-square&logo=pypi)
+<!-- ![GitHub Downloads](https://img.shields.io/github/downloads/felidz/template-project-nbdev/total.svg?style=flat-square&logo=github) -->
 
 ## Copyright
 
