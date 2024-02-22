@@ -3,11 +3,11 @@
 # %% auto 0
 __all__ = ['inc', 'dec']
 
-# %% ../nbs/api/00_inc_dec.ipynb 4
+# %% ../nbs/api/00_inc_dec.ipynb 3
 from .module.submodule import Foo
 
 
-# %% ../nbs/api/00_inc_dec.ipynb 5
+# %% ../nbs/api/00_inc_dec.ipynb 4
 def inc(x: int) -> int:
     """ increment
     """
@@ -16,7 +16,7 @@ def inc(x: int) -> int:
     return x + 1
 
 
-# %% ../nbs/api/00_inc_dec.ipynb 9
+# %% ../nbs/api/00_inc_dec.ipynb 8
 def dec(x: int) -> int:
     """ decrement
     """
