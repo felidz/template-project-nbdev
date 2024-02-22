@@ -4,23 +4,15 @@ date: 2024-02-20
 date-format: iso
 
 reference-location: margin
-# citation-location: margin
 
 bibliography: references.bib
 citation: true
 
-license: "CC BY-NC-SA"
-copyright: 
-  holder: Felidz
-  year: 2024
-  statement: "Copyright © 2024 onward  Felid. All rights reserved, unless expressly granted."
-# toc: true
 
 format:
   html:
     toc: true
     code-tools: true
-      # caption: none
     code-fold: true
     code-summary: "Code"
     code-line-numbers: true
@@ -31,9 +23,13 @@ format:
     highlight-style: github
 
 website:
-  page-navigation: true
+  twitter-card: true
+  open-graph: true
   navbar:
-  right:
-    - icon: github
-      href: https://github.com/
-      aria-label: GitHub
+    background: primary
+    search: true
+    left:
+      - icon: github
+        href: https://github.com/felidz/template-project-nbdev
+        aria-label: GitHub
+  page-navigation: true

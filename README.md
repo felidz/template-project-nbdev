@@ -7,8 +7,8 @@ This project is build on top of [nbdev](https://github.com/fastai/nbdev)
 framework, designed with the primary objective of facilitating my
 learning and progression through python engineering practice.
 
-![PyPI
-Version](https://img.shields.io/pypi/v/template-project-nbdev.svg?style=flat-square&color=darkblue)
+[![PyPI
+Version](https://img.shields.io/pypi/v/template-project-nbdev.svg?style=flat-square&color=darkblue)](https://pypi.org/project/template-project-nbdev/)
 ![GitHub
 Release](https://img.shields.io/github/v/release/felidz/template-project-nbdev.svg?style=flat-square&logo=github)
 ![GitHub

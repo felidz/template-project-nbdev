@@ -1,14 +1,20 @@
 
+metadata-files: [nbdev.yml]
+bibliography: references.bib
+reference-location: margin
+# citation: true
+
 project:
   type: website
-
+  preview:
+    port: 3000
 
 format:
   html:
     toc: true
     code-tools: 
       source: true
-      caption: none
+      # caption: none
     code-fold: true
     code-summary: "Code"
     code-line-numbers: true
@@ -17,7 +23,6 @@ format:
       light: cosmo
       dark: solar
     highlight-style: github
-
 
 website:
   twitter-card: true
@@ -29,8 +34,21 @@ website:
       - icon: github
         href: https://github.com/felidz/template-project-nbdev
         aria-label: GitHub
-  sidebar:
-    style: floating
   page-navigation: true
-
-metadata-files: [nbdev.yml, sidebar.yml]
+  sidebar:
+      style: floating
+      contents:
+        - index.ipynb
+        # - auto: "*.ipynb"
+        - section: Tutorials
+          contents: tutorials/*
+        - section: How-tos
+          contents: how-tos/*
+        - section: Whys
+          contents: whys/*
+        - section: FAQ
+          contents: faq/*
+        - section: Examples
+          contents: examples/*
+        - section: API
+          contents: api/*
