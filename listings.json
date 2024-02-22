@@ -1,0 +1,9 @@
+[
+  {
+    "listing": "/api/index.html",
+    "items": [
+      "/api/inc_dec.html",
+      "/api/module.submodule.html"
+    ]
+  }
+]

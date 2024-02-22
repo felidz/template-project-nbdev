@@ -1,0 +1,94 @@
+[
+  {
+    "objectID": "api/inc_dec.html",
+    "href": "api/inc_dec.html",
+    "title": "inc_dec",
+    "section": "",
+    "text": "source\n\ninc\n\n inc (x:int)\n\nincrement\nfunction name in backticks, like inc, will automatically create hyperlink.\n\n\nCode\ninc(1)\n\n\n\n\nCode\ntest_eq(inc(2), 3)\n\n\n\nsource\n\n\ndec\n\n dec (x:int)\n\ndecrement",
+    "crumbs": [
+      "API",
+      "inc_dec"
+    ]
+  },
+  {
+    "objectID": "api/module.submodule.html",
+    "href": "api/module.submodule.html",
+    "title": "module.submodule",
+    "section": "",
+    "text": "source\n\nFoo\n\n Foo ()\n\nInitialize self. See help(type(self)) for accurate signature.\n\nsource\n\n\nFoo.bar\n\n Foo.bar ()",
+    "crumbs": [
+      "API",
+      "module.submodule"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "A Template Project with nbdev",
+    "section": "",
+    "text": "This project is build on top of nbdev framework, designed with the primary objective of facilitating my learning and progression through python engineering practice.",
+    "crumbs": [
+      "A Template Project with nbdev"
+    ]
+  },
+  {
+    "objectID": "index.html#installation",
+    "href": "index.html#installation",
+    "title": "A Template Project with nbdev",
+    "section": "Installation",
+    "text": "Installation\npip install template_project_nbdev",
+    "crumbs": [
+      "A Template Project with nbdev"
+    ]
+  },
+  {
+    "objectID": "index.html#usage",
+    "href": "index.html#usage",
+    "title": "A Template Project with nbdev",
+    "section": "Usage",
+    "text": "Usage\n\n\nCode\n# WIP",
+    "crumbs": [
+      "A Template Project with nbdev"
+    ]
+  },
+  {
+    "objectID": "index.html#statistics",
+    "href": "index.html#statistics",
+    "title": "A Template Project with nbdev",
+    "section": "Statistics",
+    "text": "Statistics",
+    "crumbs": [
+      "A Template Project with nbdev"
+    ]
+  },
+  {
+    "objectID": "index.html#copyright",
+    "href": "index.html#copyright",
+    "title": "A Template Project with nbdev",
+    "section": "Copyright",
+    "text": "Copyright\nCopyright © 2024 onward Felidz. All rights reserved, with certain parts of the project specifically licensed and subject to different terms and conditions, e.g., source code of the project under the Apache-2.0 license; you may not use this project except in compliance with the license.",
+    "crumbs": [
+      "A Template Project with nbdev"
+    ]
+  },
+  {
+    "objectID": "index.html#citation",
+    "href": "index.html#citation",
+    "title": "A Template Project with nbdev",
+    "section": "Citation",
+    "text": "Citation\nBibTeX citation:\n@misc{felidz2024,\n  author = {Felidz},\n  title = {Template-Project-Nbdev},\n  year = {2024},\n  publisher = {GitHub},\n  journal = {GitHub repository},\n  howpublished = {\\url{https://github.com/felidz/template-project-nbdev}}\n}",
+    "crumbs": [
+      "A Template Project with nbdev"
+    ]
+  },
+  {
+    "objectID": "api/index.html",
+    "href": "api/index.html",
+    "title": "API",
+    "section": "",
+    "text": "Title\n\n\nDescription\n\n\n\n\n\n\ninc_dec\n\n\ninc_dec module\n\n\n\n\nmodule.submodule\n\n\nmodule.submodule module\n\n\n\n\n\nNo matching items",
+    "crumbs": [
+      "API"
+    ]
+  }
+]
